@@ -1,0 +1,68 @@
+\\INFO\Informática\Turma 09\Iago\Logica\Jogo Da Memoria\jogodamemoria\jogodamemoria\bin\Debug\net8.0-windows\jogodamemoria.exe
+\\INFO\Informática\Turma 09\Iago\Logica\Jogo Da Memoria\jogodamemoria\jogodamemoria\bin\Debug\net8.0-windows\jogodamemoria.deps.json
+\\INFO\Informática\Turma 09\Iago\Logica\Jogo Da Memoria\jogodamemoria\jogodamemoria\bin\Debug\net8.0-windows\jogodamemoria.runtimeconfig.json
+\\INFO\Informática\Turma 09\Iago\Logica\Jogo Da Memoria\jogodamemoria\jogodamemoria\bin\Debug\net8.0-windows\jogodamemoria.dll
+\\INFO\Informática\Turma 09\Iago\Logica\Jogo Da Memoria\jogodamemoria\jogodamemoria\bin\Debug\net8.0-windows\jogodamemoria.pdb
+\\INFO\Informática\Turma 09\Iago\Logica\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.Form1.resources
+\\INFO\Informática\Turma 09\Iago\Logica\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.Properties.Resources.resources
+\\INFO\Informática\Turma 09\Iago\Logica\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.csproj.GenerateResource.cache
+\\INFO\Informática\Turma 09\Iago\Logica\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.GeneratedMSBuildEditorConfig.editorconfig
+\\INFO\Informática\Turma 09\Iago\Logica\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.AssemblyInfoInputs.cache
+\\INFO\Informática\Turma 09\Iago\Logica\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.AssemblyInfo.cs
+\\INFO\Informática\Turma 09\Iago\Logica\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.csproj.CoreCompileInputs.cache
+\\INFO\Informática\Turma 09\Iago\Logica\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.dll
+\\INFO\Informática\Turma 09\Iago\Logica\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\refint\jogodamemoria.dll
+\\INFO\Informática\Turma 09\Iago\Logica\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.pdb
+\\INFO\Informática\Turma 09\Iago\Logica\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.genruntimeconfig.cache
+\\INFO\Informática\Turma 09\Iago\Logica\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\ref\jogodamemoria.dll
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\bin\Debug\net8.0-windows\jogodamemoria.exe
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\bin\Debug\net8.0-windows\jogodamemoria.deps.json
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\bin\Debug\net8.0-windows\jogodamemoria.runtimeconfig.json
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\bin\Debug\net8.0-windows\jogodamemoria.dll
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\bin\Debug\net8.0-windows\jogodamemoria.pdb
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.Form1.resources
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.Properties.Resources.resources
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.csproj.GenerateResource.cache
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.AssemblyInfoInputs.cache
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.AssemblyInfo.cs
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.csproj.CoreCompileInputs.cache
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.dll
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\refint\jogodamemoria.dll
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.pdb
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.genruntimeconfig.cache
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\ref\jogodamemoria.dll
+C:\Users\Estudantes\Desktop\Jogos - Iago - Copia\Jogo Da Memoria\jogodamemoria\jogodamemoria\bin\Debug\net8.0-windows\jogodamemoria.exe
+C:\Users\Estudantes\Desktop\Jogos - Iago - Copia\Jogo Da Memoria\jogodamemoria\jogodamemoria\bin\Debug\net8.0-windows\jogodamemoria.deps.json
+C:\Users\Estudantes\Desktop\Jogos - Iago - Copia\Jogo Da Memoria\jogodamemoria\jogodamemoria\bin\Debug\net8.0-windows\jogodamemoria.runtimeconfig.json
+C:\Users\Estudantes\Desktop\Jogos - Iago - Copia\Jogo Da Memoria\jogodamemoria\jogodamemoria\bin\Debug\net8.0-windows\jogodamemoria.dll
+C:\Users\Estudantes\Desktop\Jogos - Iago - Copia\Jogo Da Memoria\jogodamemoria\jogodamemoria\bin\Debug\net8.0-windows\jogodamemoria.pdb
+C:\Users\Estudantes\Desktop\Jogos - Iago - Copia\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.Form1.resources
+C:\Users\Estudantes\Desktop\Jogos - Iago - Copia\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.Properties.Resources.resources
+C:\Users\Estudantes\Desktop\Jogos - Iago - Copia\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.csproj.GenerateResource.cache
+C:\Users\Estudantes\Desktop\Jogos - Iago - Copia\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudantes\Desktop\Jogos - Iago - Copia\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.AssemblyInfoInputs.cache
+C:\Users\Estudantes\Desktop\Jogos - Iago - Copia\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.AssemblyInfo.cs
+C:\Users\Estudantes\Desktop\Jogos - Iago - Copia\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.csproj.CoreCompileInputs.cache
+C:\Users\Estudantes\Desktop\Jogos - Iago - Copia\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.dll
+C:\Users\Estudantes\Desktop\Jogos - Iago - Copia\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\refint\jogodamemoria.dll
+C:\Users\Estudantes\Desktop\Jogos - Iago - Copia\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.pdb
+C:\Users\Estudantes\Desktop\Jogos - Iago - Copia\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.genruntimeconfig.cache
+C:\Users\Estudantes\Desktop\Jogos - Iago - Copia\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\ref\jogodamemoria.dll
+C:\Users\Estudantes\Desktop\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\bin\Debug\net8.0-windows\jogodamemoria.exe
+C:\Users\Estudantes\Desktop\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\bin\Debug\net8.0-windows\jogodamemoria.deps.json
+C:\Users\Estudantes\Desktop\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\bin\Debug\net8.0-windows\jogodamemoria.runtimeconfig.json
+C:\Users\Estudantes\Desktop\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\bin\Debug\net8.0-windows\jogodamemoria.dll
+C:\Users\Estudantes\Desktop\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\bin\Debug\net8.0-windows\jogodamemoria.pdb
+C:\Users\Estudantes\Desktop\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.Form1.resources
+C:\Users\Estudantes\Desktop\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.Properties.Resources.resources
+C:\Users\Estudantes\Desktop\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.csproj.GenerateResource.cache
+C:\Users\Estudantes\Desktop\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudantes\Desktop\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.AssemblyInfoInputs.cache
+C:\Users\Estudantes\Desktop\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.AssemblyInfo.cs
+C:\Users\Estudantes\Desktop\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.csproj.CoreCompileInputs.cache
+C:\Users\Estudantes\Desktop\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.dll
+C:\Users\Estudantes\Desktop\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\refint\jogodamemoria.dll
+C:\Users\Estudantes\Desktop\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.pdb
+C:\Users\Estudantes\Desktop\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\jogodamemoria.genruntimeconfig.cache
+C:\Users\Estudantes\Desktop\Jogos - Iago\Jogo Da Memoria\jogodamemoria\jogodamemoria\obj\Debug\net8.0-windows\ref\jogodamemoria.dll
